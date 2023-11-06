@@ -1,0 +1,12 @@
+names:
+- Bees
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: bees-kc22c
+  url: https://universe.roboflow.com/bees-and-hornets-20yku/bees-kc22c/dataset/1
+  version: 1
+  workspace: bees-and-hornets-20yku
+test: ../test/images
+train: Bees-1/train/images
+val: Bees-1/valid/images
