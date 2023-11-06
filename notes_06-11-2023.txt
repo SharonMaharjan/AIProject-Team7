@@ -14,3 +14,8 @@ Asir:
 
 - First start with Bees only.
 - Work in an agile way. If it worked add more data and train again. 
+
+
+
+-> scrap (bees) images 
+->label data from yolo (v5 or v8)
