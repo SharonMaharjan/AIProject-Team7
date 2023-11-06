@@ -1,8 +1,8 @@
 Detecting & Tracking Vespa Velutina (Yellow Legged Hornet)
 Types of hornet:
-Asian Giant Hornet (Vespa Mandarinia)
-**Yellow-legged Asian Hornet (Vespa Velutina)**
-European Hornet (Vespa Crobro)
+- Asian Giant Hornet (Vespa Mandarinia)
+- **Yellow-legged Asian Hornet (Vespa Velutina)**
+- European Hornet (Vespa Crobro)
 
 Goal & AI model
 1. Collect & Label Hornet (versus Bee) data
