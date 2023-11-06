@@ -1,7 +1,0 @@
-How do you do a custom yolo training to distinguish hronets from other classes because yolo can ditinguish up to 1000 classes
-
-get the custom job working and then add more data. don't label too much hornets.
-
-Start off with bees
-
-yolo version 8 or 5 probably for training the custom yolo job.
