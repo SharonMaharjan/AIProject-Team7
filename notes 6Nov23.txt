@@ -1,0 +1,16 @@
+How do you do a custom yolo training to distinguish hronets from other classes because yolo can ditinguish up to 1000 classes
+
+get the custom job working and then add more data. don't label too much hornets.
+
+Start off with bees
+
+yolo version 8 or 5 probably for training the custom yolo job.
+
+
+Asir:
+- Scrap images (not too many)
+- Try different labeling tools, and stick with that one. Maybe, Roboflow.
+- Do custom YOLO training job with Jupyter Notebooks
+
+- First start with Bees only.
+- Work in an agile way. If it worked add more data and train again. 
