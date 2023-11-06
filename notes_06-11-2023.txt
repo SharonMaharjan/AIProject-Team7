@@ -19,3 +19,5 @@ Asir:
 
 -> scrap (bees) images 
 ->label data from yolo (v5 or v8)
+
+-> two different classes or random onces
