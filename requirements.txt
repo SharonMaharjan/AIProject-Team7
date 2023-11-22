@@ -5,4 +5,3 @@ opencv-python
 supervision
 ultralytics
 deep-sort-realtime
-open-cv
