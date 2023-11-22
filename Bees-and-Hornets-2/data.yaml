@@ -1,0 +1,13 @@
+names:
+- Bees
+- Hornets
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: bees-and-hornets
+  url: https://universe.roboflow.com/bees-and-hornets-20yku/bees-and-hornets/dataset/2
+  version: 2
+  workspace: bees-and-hornets-20yku
+test: ../test/images
+train: Bees-and-Hornets-2/train/images
+val: Bees-and-Hornets-2/valid/images
