@@ -146,7 +146,6 @@ python-dotenv==1.0.0
 python-json-logger==2.0.7
 python-magic==0.4.27
 pytz==2023.3.post1
-pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==24.0.1
 referencing==0.30.2
