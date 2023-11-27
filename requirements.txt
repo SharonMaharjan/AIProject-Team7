@@ -5,3 +5,5 @@ opencv-python
 supervision
 ultralytics
 deep-sort-realtime
+ipython
+Pillow
